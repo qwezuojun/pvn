@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day11_git/day11_git.iml" filepath="$PROJECT_DIR$/day11_git/day11_git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pvn.iml" filepath="$PROJECT_DIR$/pvn.iml" />
+    </modules>
+  </component>
+</project>
